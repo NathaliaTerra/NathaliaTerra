@@ -8,7 +8,7 @@ Meus interesses no momento incluem:
   
   Estou aberta para estágios e para colaborar em projetos interessantes e desafiadores.
   Você pode me encontrar em :
-  *LinkedIn: Nathalia Terra
+  *LinkedIn: [Nathalia Terra](https://www.linkedin.com/in/nathalia-terra-40b561244/)
   
 <!---
 NathaliaTerra/NathaliaTerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
