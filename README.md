@@ -1,13 +1,11 @@
-- 👋 Hi, I’m Nathalia Terra
-Estudante de Sistemas para Internet
+- 👋 Hi, I’m Nathalia Terra.
+Estudante de Sistemas para Internet, iniciando agora no mundo da tecnologia!!!
 Sempre em busca de aprender novas linguagens e frameworks.
-Meus interesses incluem:
+Meus interesses no momento incluem:
 - Desenvolvimento Web e Mobile
 - DevOps
-- UX/UI
-
-  No momento estou aprendendo sobre Lógica de Programação.
-
+- UX/UI  
+  
   Estou aberta para estágios e para colaborar em projetos interessantes e desafiadores.
   Você pode me encontrar em :
   *LinkedIn: Nathalia Terra
