@@ -3,7 +3,7 @@ Estudante de Sistemas para Internet, iniciando agora no mundo da tecnologia!!!
 Sempre em busca de aprender novas linguagens e frameworks.
 Meus interesses no momento incluem:
 - Desenvolvimento Web e Mobile
-- DevOps
+- Front-end
 - UX/UI  
   
   Estou aberta para estágios e para colaborar em projetos interessantes e desafiadores.
