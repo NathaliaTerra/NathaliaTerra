@@ -25,7 +25,7 @@ Meu nome é **Nathalia Terra**, sou estudante de **Sistemas para Internet** na U
 
 <h2> 📚 O que estou aprendendo atualmente </h2> 
 
- <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/> &nbsp; 
  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/> &nbsp;
  <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="50" height="50"/> &nbsp;
  <br><br>
